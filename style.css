@@ -1,3 +1,15 @@
 html {
-  background-color: black;
+  background-color: #2c2c2c;
+  color: #ababab;
+  font-size: 1.5rem;
+  line-height: 0;
+}
+
+h3 {
+  color: #D68000;
+  padding-bottom: 1rem;
+}
+
+.chorus {
+  font-style: italic;
 }
