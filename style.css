@@ -17,3 +17,7 @@ h3 {
 .chorus {
   font-style: italic;
 }
+
+.large-text {
+  font-size: 26px;
+}
