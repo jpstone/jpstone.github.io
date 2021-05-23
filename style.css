@@ -9,6 +9,10 @@ html {
   margin: 2rem;
 }
 
+body > div {
+  display: none;
+}
+
 h3 {
   color: #D68000;
   padding-bottom: 1.5rem;
